@@ -1,0 +1,12 @@
+[submodule "patient-retrieval-and-verification"]
+	path = patient-retrieval-and-verification
+	url = git@github.com:filipepcampos/patient-retrieval-and-verification.git
+[submodule "anonymization-pipeline"]
+	path = anonymization-pipeline
+	url = git@github.com:filipepcampos/anonymization-pipeline.git
+[submodule "medical-explanations"]
+	path = medical-explanations
+	url = git@github.com:filipepcampos/medical-explanations.git
+[submodule "medfusion"]
+	path = medfusion
+	url = git@github.com:filipepcampos/medfusion.git
